@@ -27,3 +27,4 @@ The entire analysis demonstrates a structured approach to solving a classificati
 In conclusion, this task emphasizes the significance of big data analytics in the banking sector by showcasing how campaign effectiveness can be assessed through data science. The methodology adopted is scalable, adaptable, and relevant to any organization aiming to optimize marketing efforts through predictive modeling and customer segmentation.
 
 
+Some of the outputs:
