@@ -12,7 +12,7 @@ This task focuses on performing a comprehensive analysis of a bank marketing cam
 
 The primary objective of this task is to derive meaningful insights and patterns from a large volume of structured data, leveraging PySpark's powerful distributed computing capabilities. Given the increasing need for scalable data processing in real-time applications, this task also highlights the practical application of big data tools in solving real-world business problems.
 
-The dataset includes attributes such as age, job type, marital status, education level, default status, housing and personal loan indicators, contact communication type, last contact duration, campaign performance metrics, and economic indicators (like employment variation rate, consumer price index, and interest rate). The target variable is a binary indicator of whether the client has subscribed to a term deposit.
+The dataset is of 4lakh rows includes attributes such as age, job type, marital status, education level, default status, housing and personal loan indicators, contact communication type, last contact duration, campaign performance metrics, and economic indicators (like employment variation rate, consumer price index, and interest rate). The target variable is a binary indicator of whether the client has subscribed to a term deposit.
 
 The analysis begins with loading the dataset into a PySpark DataFrame, followed by exploratory data analysis (EDA) to understand the structure, schema, and quality of the data. The dataset is checked for null values, duplicate entries, and other inconsistencies. Appropriate data cleaning steps are performed to ensure that the data is reliable and suitable for further analysis.
 
