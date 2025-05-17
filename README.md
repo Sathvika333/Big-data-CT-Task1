@@ -28,3 +28,7 @@ In conclusion, this task emphasizes the significance of big data analytics in th
 
 
 Some of the outputs:
+
+![Image](https://github.com/user-attachments/assets/3e66c295-8564-4fbe-8d12-579db43958b4)
+![Image](https://github.com/user-attachments/assets/573b5fdb-69a0-400b-841d-02c331e2d19e)
+![Image](https://github.com/user-attachments/assets/0f9a9336-001a-4998-a536-261d2b4691f7)
